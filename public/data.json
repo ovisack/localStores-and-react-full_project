@@ -1,0 +1,86 @@
+[
+    {
+      "name": "Smartphone",
+      "id": "001",
+      "png": "https://i.ibb.co.com/ZLZZd87/2.png",
+      "prices": 15000,
+      "brand": "Samsung"
+    },
+    {
+      "name": "Laptop",
+      "id": "002",
+      "png": "https://i.ibb.co.com/ZLZZd87/2.png",
+      "prices": 75000,
+      "brand": "Dell"
+    },
+    {
+      "name": "Headphones",
+      "id": "003",
+      "png": "https://i.ibb.co.com/ZLZZd87/2.png",
+      "prices": 2000,
+      "brand": "Sony"
+    },
+    {
+      "name": "Smartwatch",
+      "id": "004",
+      "png": "https://i.ibb.co.com/ZLZZd87/2.png",
+      "prices": 5000,
+      "brand": "Apple"
+    },
+    {
+      "name": "Tablet",
+      "id": "005",
+      "png": "https://i.ibb.co.com/ZLZZd87/2.png",
+      "prices": 25000,
+      "brand": "Huawei"
+    },
+    {
+      "name": "Camera",
+      "id": "006",
+      "png": "https://i.ibb.co.com/ZLZZd87/2.png",
+      "prices": 30000,
+      "brand": "Canon"
+    },
+    {
+      "name": "Speaker",
+      "id": "007",
+      "png": "https://i.ibb.co.com/ZLZZd87/2.png",
+      "prices": 4000,
+      "brand": "JBL"
+    },
+    {
+      "name": "Monitor",
+      "id": "008",
+      "png": "https://i.ibb.co.com/ZLZZd87/2.png",
+      "prices": 12000,
+      "brand": "LG"
+    },
+    {
+      "name": "Keyboard",
+      "id": "009",
+      "png": "https://i.ibb.co.com/ZLZZd87/2.png",
+      "prices": 1500,
+      "brand": "Logitech"
+    },
+    {
+      "name": "Mouse",
+      "id": "010",
+      "png": "https://i.ibb.co.com/ZLZZd87/2.png",
+      "prices": 1000,
+      "brand": "HP"
+    },
+    {
+      "name": "Router",
+      "id": "011",
+      "png": "https://i.ibb.co.com/ZLZZd87/2.png",
+      "prices": 2500,
+      "brand": "TP-Link"
+    },
+    {
+      "name": "Power Bank",
+      "id": "012",
+      "png": "https://i.ibb.co.com/ZLZZd87/2.png",
+      "prices": 1500,
+      "brand": "Xiaomi"
+    }
+  ]
