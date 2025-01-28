@@ -16,10 +16,10 @@ const {png,name}=phon;
 
 
 
-        <div>
+        <div >
   
-            <div className="card bg-orange-200 gap-16 w-auto mt-9  h-auto shadow-xl">
-  <figure>
+            <div className="cart bg-red-300  gap-16  mt-9 w-auto mx-auto  h-auto shadow-xl">
+  <figure className="">
     <img
       src={png}
       alt="Shoes" />
@@ -27,11 +27,11 @@ const {png,name}=phon;
   <div className="card-body">
   
     <p>name: {name}</p>
-    <div className="card-actions justify-end">
-      <button className="btn btn-primary">click new</button>
+    {/* <div className="card-actions justify-end"> */}
+      <button className="btn btn-primary md:w-44">click new</button>
 
-      <button className="btn" onClick={()=>handlePhon(phon)}>Select me</button>
-    </div>
+      <button className="btn md:w-44"  onClick={()=>handlePhon(phon)}>Select me</button>
+    {/* </div> */}
   </div>
 </div>
     

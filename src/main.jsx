@@ -4,7 +4,6 @@ import './index.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Home from './component/Home'
 
-import Data from './component/Data'
 
 
 const router=createBrowserRouter([

@@ -1,5 +1,4 @@
-import { data, Link } from "react-router-dom";
-import Navbar from "./Navbar";
+
 
 
 
@@ -16,11 +15,15 @@ const Data = ({photo,handleDelete}) => {
 
     return (
 <>
+<div className=" -ml-96">
+
+
+</div>
 <p className="text-2xl  mr-7 font-bold w-full text-cyan-500">Total={photo.length}</p>
         <div className="mt-14">
 
           {
- photo.map(phon=> <div><img  phon={phon} src={phon.png} alt="" /> <p>{phon.name} ami</p> <button onClick={()=>handleDelete(phon.id)}>delete</button> <Navbar></Navbar> </div> )
+ photo.map(phon=> <div><img  phon={phon} src={phon.png} alt="" /> <p>{phon.name} ami</p> <button onClick={()=>handleDelete(phon.id)}>delete</button>  </div> )
 
 
 
@@ -28,7 +31,7 @@ const Data = ({photo,handleDelete}) => {
 }
         </div>
         
-        <div> <Link  to={"/data"}></Link></div>
+      
         </>
     );
 };
